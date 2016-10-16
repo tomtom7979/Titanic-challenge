@@ -1,4 +1,4 @@
-# Titanic-challange
+# Titanic-challenge
 
 setwd("~/GitHub/Titanic-challange")
 
